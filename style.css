@@ -1,3 +1,13 @@
 body{
-   background: red;
+  background:gray;
 }
+table{
+  background: red;
+}
+ 
+
+table tbody tr td {
+  border: 1px solid;
+  border-color: black;
+}
+
